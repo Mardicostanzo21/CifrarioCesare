@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marty\\Desktop\\CifrarioCesare_DiCostanzo\\CifrarioCesare_DiCostanzo\\CesarCodeApp.csproj",
+      "projectUniqueName": "C:\\Users\\marty\\Desktop\\CesareCifrario2_DiCostanzoMartina_5BI\\CifrarioCesare\\CifrarioCesare_DiCostanzo\\CifrarioCesare_DiCostanzo\\CesarCodeApp.csproj",
       "projectName": "CesarCodeApp",
-      "projectPath": "C:\\Users\\marty\\Desktop\\CifrarioCesare_DiCostanzo\\CifrarioCesare_DiCostanzo\\CesarCodeApp.csproj",
+      "projectPath": "C:\\Users\\marty\\Desktop\\CesareCifrario2_DiCostanzoMartina_5BI\\CifrarioCesare\\CifrarioCesare_DiCostanzo\\CifrarioCesare_DiCostanzo\\CesarCodeApp.csproj",
       "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marty\\Desktop\\CifrarioCesare_DiCostanzo\\CifrarioCesare_DiCostanzo\\obj\\",
+      "outputPath": "C:\\Users\\marty\\Desktop\\CesareCifrario2_DiCostanzoMartina_5BI\\CifrarioCesare\\CifrarioCesare_DiCostanzo\\CifrarioCesare_DiCostanzo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

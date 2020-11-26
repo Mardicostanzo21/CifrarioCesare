@@ -25,8 +25,11 @@ namespace CaesarChiperLibrary
         protected string DoWork(string m)
         {
             string message = string.Empty;
-            foreach (char ch in m) ;
-            message += Chiper(ch);
+            foreach (char ch in m)
+            {
+                message += chiper(ch);
+                
+            }
             return message;
         }
 
