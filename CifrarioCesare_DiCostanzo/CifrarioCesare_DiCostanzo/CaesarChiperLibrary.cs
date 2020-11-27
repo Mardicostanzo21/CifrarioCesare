@@ -27,10 +27,12 @@ namespace CaesarChiperLibrary
             string message = string.Empty;
             foreach (char ch in m)
             {
+
                 message += Cipher(ch);
+
             }
 
-            return message;
+             return message;
         }
 
 
