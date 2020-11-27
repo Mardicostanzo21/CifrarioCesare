@@ -28,8 +28,8 @@ namespace CaesarChiperLibrary
             foreach (char ch in m)
             {
                 message += chiper(ch);
-                
             }
+
             return message;
         }
 
