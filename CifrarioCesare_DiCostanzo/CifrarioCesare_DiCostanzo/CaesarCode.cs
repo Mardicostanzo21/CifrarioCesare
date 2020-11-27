@@ -10,8 +10,10 @@ namespace CesarChiperLibrary
         public string CipherText { get; set; }
         public CaesarCode(string message,int key)
         {
+
             key = key;
             CipherText = DoWork(message);
+
         }
 
     }
