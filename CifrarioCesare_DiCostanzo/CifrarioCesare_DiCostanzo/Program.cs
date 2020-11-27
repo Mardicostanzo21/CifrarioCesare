@@ -15,7 +15,7 @@ namespace CifrarioCesare_DiCostanzo
             {
                 do
                 {
-                    Console.WriteLine("Inserisci la chiave (ATTENZIONE! I caratteri dell'alfabeto italiano sono 21)");
+                    Console.WriteLine("Inserisci la chiave (ATTENZIONE! la chiave inserita deve essere da 0 a 26)");
                     key = int.Parse(Console.ReadLine());
                 } 
                 while (key < 0 || key > 25);
