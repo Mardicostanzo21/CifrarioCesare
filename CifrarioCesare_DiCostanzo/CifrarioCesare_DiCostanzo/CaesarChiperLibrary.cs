@@ -7,7 +7,7 @@ namespace CaesarChiperLibrary
      public abstract class CaesarBase
      {
         protected int key { get; set; }
-        private char chiper(char ch)
+        private char Cipher(char ch)
         {
             if (!char.IsLetter(ch))
                 return ch;
@@ -27,7 +27,7 @@ namespace CaesarChiperLibrary
             string message = string.Empty;
             foreach (char ch in m)
             {
-                message += chiper(ch);
+                message += Cipher(ch);
             }
 
             return message;
