@@ -1,7 +1,7 @@
 ﻿using CesarChiperLibrary;
 using System;
 
-namespace CifrarioCesare_DiCostanzo
+namespace CaesarCodeApp
 {
     class Program
     {

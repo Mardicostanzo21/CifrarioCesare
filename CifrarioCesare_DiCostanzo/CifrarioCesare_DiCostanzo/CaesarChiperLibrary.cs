@@ -24,15 +24,17 @@ namespace CaesarChiperLibrary
         }
         protected string DoWork(string m)
         {
+
             string message = string.Empty;
             foreach (char ch in m)
             {
-
-                message += Cipher(ch);
+               
+                    message += Cipher(ch);
+                
 
             }
 
-             return message;
+            return message;
         }
 
 
