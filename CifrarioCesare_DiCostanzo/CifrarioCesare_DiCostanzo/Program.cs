@@ -27,7 +27,9 @@ namespace CaesarCodeApp
             catch (Exception ex)
             {
 
+
                 Console.WriteLine(ex.Message);
+
             }
         }
     }
